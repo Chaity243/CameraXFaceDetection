@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FaceDetectionCameraX</string>
+    <string name="label_flip_camera">Flip Camera</string>
+    <string name="error_permission_not_granted">Permissions not granted by the user.</string>
+</resources>
